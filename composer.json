@@ -1,0 +1,12 @@
+{
+	"name": "bradp/one-search-result",
+	"type": "wordpress-plugin",
+	"description": "Automatically send a user to the page or post if it's the only search result available",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
