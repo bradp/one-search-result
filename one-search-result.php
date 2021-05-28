@@ -2,7 +2,7 @@
 /**
  * Plugin Name: One Search Result
  * Description: Automatically send a user to the page or post if it's the only search result available.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      Brad Parbs
  * Author URI:  https://bradparbs.com/
  * License:     GPLv2
