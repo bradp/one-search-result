@@ -12,9 +12,7 @@
  * @package one-search-result
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit;
-}
+defined( 'ABSPATH' ) || die();
 
 /**
  * If there is one search result, redirect to it automatically.
