@@ -10,7 +10,7 @@ This will work with any theme and any posts, pages, or custom post types that wo
 
 You can filter `one_search_result_pre_check` to false if you need to short-circuit and disable the redirect dynamically.
 
-You can modify the redirect code with `once_search_result_redirect_code`, defaults to 302.
+You can modify the redirect code with `one_search_result_redirect_code`, defaults to 302.
 
 ## Changelog
 
